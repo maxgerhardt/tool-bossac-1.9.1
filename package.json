@@ -7,11 +7,7 @@
     "uploader"
   ],
   "license": "BSD-3-Clause",
-  "system": [
-    "windows",
-    "windows_amd64",
-    "windows_x86"
-  ],
+  "system": "all",
   "repository": {
     "type": "git",
     "url": "https://github.com/shumatech/BOSSA"
